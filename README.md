@@ -6,7 +6,7 @@
 <title>🌍 Orbital Simulation</title>
 <style>
 html,body{
-  margin:0;
+  argin:0;
   overflow:hidden;
   background:#00040a;
   font-family:system-ui,sans-serif;
